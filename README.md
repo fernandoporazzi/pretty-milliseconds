@@ -153,6 +153,9 @@ func main() {
 }
 ```
 
+## Related
+- [Parse milliseconds](https://github.com/fernandoporazzi/parse-ms) - Parse milliseconds into a struct
+- [Pretty bytes](https://github.com/fernandoporazzi/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB
 
 ## License
 
